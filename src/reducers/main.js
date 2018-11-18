@@ -3,7 +3,7 @@ import currentVideo from './currentVideo.js';
 import videoList from './videoList.js';
 
 var rootReducer = combineReducers({currentVideo, videoList});
-
+//git push
 
 //TODO: define the root reducer for this app
 
